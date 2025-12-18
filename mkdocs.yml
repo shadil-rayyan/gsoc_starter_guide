@@ -1,4 +1,4 @@
-site_name: My site
+site_name: Gsoc Starter kit 
 site_url: https://shadil-rayyan.github.io/gsoc_starter_guide/
 
 repo_name: squidfunk/mkdocs-material
@@ -61,7 +61,7 @@ extra:
 
   analytics:
     provider: google
-    property: G-XXXXXXXXXX
+    property: G-PB32VFXTL0
 
     feedback:
       title: Was this page helpful?
@@ -105,14 +105,18 @@ nav:
   - Home: index.md
   - Are You Good Enough?: gsoc/are_you_good_enough.md
 
+  - Git & GitHub:
+      - Git Basics: git/git.md
+      - GitHub Basics: git/github.md
+      - GitHub Basics: git/gsoc_pr.md
+
+
+
   - Open Source:
       - What is Open Source?: open_source/open_source.md
       - Open Source Organizations: open_source/open_source_org.md
       - How to Contribute to Open Source: open_source/contribute_to_open_source.md
 
-  - Git & GitHub:
-      - Git Basics: git/git.md
-      - GitHub Basics: git/github.md
 
   - Google Summer of Code:
       - Overview: gsoc/overview.md
