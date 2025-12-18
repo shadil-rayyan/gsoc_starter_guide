@@ -1,7 +1,7 @@
 site_name: Gsoc Starter kit 
 site_url: https://shadil-rayyan.github.io/gsoc_starter_guide/
 
-repo_name: squidfunk/mkdocs-material
+repo_name: shadil-rayyan/gsoc_starter_guide
 repo_url: https://github.com/shadil-rayyan/gsoc_starter_guide
 
 theme:
@@ -108,7 +108,7 @@ nav:
   - Git & GitHub:
       - Git Basics: git/git.md
       - GitHub Basics: git/github.md
-      - GitHub Basics: git/gsoc_pr.md
+      - GitHub profile : git/github_profile.md
 
 
 
