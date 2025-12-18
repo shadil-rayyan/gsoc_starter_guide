@@ -134,5 +134,5 @@ nav:
   - Contributing & Selection:
       - How Orgs Select Contributors: gsoc/how_orgs_select_contributors.md
 
-  - Final Tips:
-      - Tips & Reality Checks: gsoc/tips.md
+  - Final Tips: tips.md
+      
