@@ -1,72 +1,23 @@
-# MkDocs Material Template
+# Google Summer of Code (GSoC)
 
-A complete starter template showcasing **all major MkDocs Material features**.
 
----
+## About Me
 
-## ✨ Included Examples
-
-- Admonitions
-- Tabs
-- Code blocks
-- Tables
-- Diagrams
-- Icons & Emojis
-
-# Code Blocks
-
-## Basic Code Block
-
-```python
-def hello():
-    print("Hello, MkDocs!")
+- Hello everyone, my name is **Shadil A M**
+- 4th-year Computer Science Engineering student at **KTU University**
+- **GSoC 2025 Contributor** with **Zendalona**
+- Worked on **zMantra** – a math learning game for visually impaired students
+- Project involved accessibility, research, and real users
+- Visited blind schools and worked closely with real users
+- Founder of **CodeCompass** – an open-source student platform
 
 ---
 
-## 4️⃣ Tabs Example (`markdown/tabs.md`)
+## Disclaimer
 
-```md
-# Tabs
+- This documentation is based on my **personal GSoC experience**
+- GSoC selection varies heavily by organization
+- There is **no guaranteed formula**, only strong patterns
+- Your journey may look different — and that is okay
 
-=== "Python"
-    ```python
-    print("Hello from Python")
-    ```
-
-=== "JavaScript"
-    ```js
-    console.log("Hello from JavaScript");
-    ```
-
-=== "Bash"
-    ```bash
-    echo "Hello from Bash"
-    ```
-# Tables
-
-| Feature | Supported |
-|--------|-----------|
-| Tabs   | ✅ |
-| Icons  | ✅ |
-| Diagrams | ✅ |
-
-
-# Icons & Emojis
-
-## Icons
-
-:material-home: Home  
-:material-github: GitHub  
-
-## Emojis
-
-:rocket:  :fire:
-
-
-# Diagrams
-
-```mermaid
-graph TD
-    A[User] --> B[MkDocs]
-    B --> C[Material Theme]
-
+---

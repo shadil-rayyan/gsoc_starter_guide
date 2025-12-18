@@ -1,13 +1,13 @@
 site_name: My site
-site_url: https://mydomain.org/mysite
+site_url: https://shadil-rayyan.github.io/gsoc_starter_guide/
 
 repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.com/shadil-rayyan/gsoc_starter_guide
 
 theme:
   name: material
-  logo: assets/logo.png
-  favicon: images/favicon.png
+  logo: images/logo.png
+  favicon: images/favicon.ico
 
   features:
     - navigation.instant
@@ -51,7 +51,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk
+      link: https://github.com/shadil-rayyan/gsoc_starter_guide
 
   consent:
     title: Cookie consent
@@ -100,3 +100,39 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - Home: index.md
+  - Are You Good Enough?: gsoc/are_you_good_enough.md
+
+  - Open Source:
+      - What is Open Source?: open_source/open_source.md
+      - Open Source Organizations: open_source/open_source_org.md
+      - How to Contribute to Open Source: open_source/contribute_to_open_source.md
+
+  - Git & GitHub:
+      - Git Basics: git/git.md
+      - GitHub Basics: git/github.md
+
+  - Google Summer of Code:
+      - Overview: gsoc/overview.md
+      - Timeline: gsoc/timeline.md
+      - Slots Explained: gsoc/slots.md
+
+  - Choosing:
+      - Choosing an Organization: gsoc/choosing_org.md
+      - After Choosing an Organization: gsoc/after_choosing_org.md
+      - How to Contribute to a GSoC Org: gsoc/contributing_to_org.md
+
+  - After Choosing:
+      - Choosing a Project: gsoc/choosing_project.md
+      - After Choosing a Project: gsoc/after_choosing_project.md
+
+  - Proposal:
+      - Writing a GSoC Proposal: gsoc/proposal.md
+
+  - Contributing & Selection:
+      - How Orgs Select Contributors: gsoc/how_orgs_select_contributors.md
+
+  - Final Tips:
+      - Tips & Reality Checks: gsoc/tips.md
